@@ -1,0 +1,9 @@
+.card {
+    height: 186px;
+    width: 144px;
+    background-color: #414865;
+    color: white;
+    font-family: "Open Sans";
+    text-align: left;
+    border-radius: 10px 20px 10px 20px;
+}
